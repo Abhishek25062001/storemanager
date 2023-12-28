@@ -1,0 +1,2 @@
+# storemanager
+software for storemanager 
